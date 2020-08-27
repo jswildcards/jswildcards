@@ -1,4 +1,4 @@
-### Hi there :wave:
+# Hi there :wave:
 
 ![Deno](https://avatars3.githubusercontent.com/u/32827553?s=400&u=5f59cd13d641e9b1aa304c6bb128964ac9336c42&v=4)
 > Artwork from hashrock for Deno is amazing!
