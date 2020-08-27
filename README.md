@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-![https://github.com/settings/admin]
+![](https://deno.land/v1.png)
 *Artwork from hashrock for Deno is amazing!*
 
 #### Background
