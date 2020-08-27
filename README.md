@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-![](https://deno.land/v1.png)
+![Deno](https://deno.land/v1.png)
 *Artwork from hashrock for Deno is amazing!*
 
 #### Background
