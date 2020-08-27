@@ -10,6 +10,9 @@
 - I can write Node.js and Vue
 - I am learning Deno, React and React Native
 
+#### Projects
+- I am doing this(https://github.com/users/paniomlaw/projects/1) for my final year project
+
 <!--
 **PaniomLaw/PaniomLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
