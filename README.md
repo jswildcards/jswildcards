@@ -11,10 +11,10 @@
 - I am learning Deno, React and React Native
 
 #### Projects
-- I am doing [this](https://github.com/users/paniomlaw/projects/1) for my final year project
+- I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project
 
 #### Side-projects
-- [Minesweeper](https://github.com/paniomlaw/minesweeper) (Implementing) :hammer:
+- [Minesweeper](https://jswildcards.github.io/minesweeper/demo) (Implementing) :hammer:
 
 <!--
 **PaniomLaw/PaniomLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
