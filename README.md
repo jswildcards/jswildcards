@@ -14,7 +14,7 @@
 - I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project
 
 #### Side-projects
-- [Minesweeper](https://jswildcards.github.io/minesweeper/demo) (Implementing) :hammer:
+- [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) (Implementing) :hammer:
 
 <!--
 **PaniomLaw/PaniomLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
