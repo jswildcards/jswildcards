@@ -10,13 +10,9 @@
 
 ---
 
-<p>
+Hi there :wave:
 
-### Hi there :wave:
-
-#### Background
-- I come from :hong_kong:!
-- I am currently studying at University :school:
+I am a University student, studying Computer Science as my main subject. 
 
 #### Interest & Skills
 - I love coding :smiling_face_with_three_hearts:
@@ -29,5 +25,3 @@
 
 #### Side-projects
 - [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) (Implementing) :hammer:
-
-</p>
