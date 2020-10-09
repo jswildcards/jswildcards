@@ -2,17 +2,11 @@
 
 ---
 
-<div style="display:flex; flex-direction: row;">
-  <img width="250" src="./public/jswildcards.png" />
-
-  <div>
+<img width="96" align="left" src="./public/jswildcards.png">
 
 # Just Simple.
 
-[@jswildcards](https://github.com/jswildcards)
-
-  </div>
-</div>
+@jswildcards
 
 ---
 
