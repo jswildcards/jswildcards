@@ -6,7 +6,7 @@
 
 # Just Simple.
 
-@jswildcards
+[@jswildcards](https://github.com/jswildcards)
 
 ---
 
