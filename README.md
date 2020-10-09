@@ -2,13 +2,21 @@
 
 ---
 
-<img width="250" align="left" src="./public/jswildcards.png">
+<div style="display:flex; flex-direction: row;">
+  <img width="250" src="./public/jswildcards.png" />
+
+  <div>
 
 # Just Simple.
 
-@jswildcards
+[@jswildcards](https://github.com/jswildcards)
+
+  </div>
+</div>
 
 ---
+
+<p>
 
 ### Hi there :wave:
 
@@ -27,3 +35,5 @@
 
 #### Side-projects
 - [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) (Implementing) :hammer:
+
+</p>
