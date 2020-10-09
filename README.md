@@ -2,11 +2,11 @@
 
 ---
 
-<img width="250" align="left" src="./public/jswildcards.png">
+<img width="96" align="left" src="./public/jswildcards.png">
 
 # Just Simple.
 
-@jswildcards
+[@jswildcards](https://github.com/jswildcards)
 
 ---
 
