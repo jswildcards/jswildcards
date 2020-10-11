@@ -6,8 +6,6 @@
 
 ---
 
-<img width="128" align="left" src="./public/jswildcards.png">
-
 ### Introduction
 
 Hi there! :wave:
