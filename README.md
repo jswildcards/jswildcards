@@ -6,7 +6,7 @@
 
 ---
 
-<img width="250" align="left" src="./public/jswildcards.png">
+<img width="128" align="left" src="./public/jswildcards.png">
 
 ### Introduction
 
