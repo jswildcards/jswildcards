@@ -1,27 +1,22 @@
 ![img](./public/jswildcards-banner.png)
 
----
+<h1 align="middle">Just Simple.</h1>
 
-<img width="96" align="left" src="./public/jswildcards.png">
-
-# Just Simple.
-
-[@jswildcards](https://github.com/jswildcards)
+<p align="middle"><a href="https://github.com/jswildcards">@jswildcards</a></p>
 
 ---
 
-Hi there :wave:
+<img width="250" align="left" src="./public/jswildcards.png">
 
-I am a University student, studying Computer Science as my main subject. 
+### Introduction
 
-#### Interest & Skills
-- I love coding :smiling_face_with_three_hearts:
-- My favourite language is JavaScript
-- I can write Node.js and Vue
-- I am learning Deno, React and React Native
+Hi there! :wave:
 
-#### Projects
-- I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project
+I am a University student who is studying Computer Science. I love coding :smiling_face_with_three_hearts: and I love JavaScript very much. So I am looking forward to contribute to your next JavaScript Project.
 
-#### Side-projects
-- [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) (Implementing) :hammer:
+### My Goal
+
+I am familiar with Node.js and Vue. I am currently learning Deno, React and React Native.
+
+### Projects
+I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project. Also, [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) is implementing in my github pages too. :hammer:
