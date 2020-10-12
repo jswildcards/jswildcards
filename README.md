@@ -17,4 +17,4 @@ I am a University student who is studying Computer Science. I love coding :smili
 I am familiar with Node.js and Vue. I am currently learning Deno, React and React Native.
 
 ### Projects
-I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project. Also, [Minesweeper](https://jswildcards.github.io/game/minesweeper/demo) is implementing in my github pages too. :hammer:
+I am doing [this](https://github.com/users/jswildcards/projects/1) for my final year project. Also, [Minesweeper](https://jswildcards.github.io/side-projects/minesweeper) is implementing in my github pages too. :hammer:
