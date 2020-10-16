@@ -1,8 +1,6 @@
 ![img](./public/jswildcards-banner.png)
 
-<h1 align="middle">Just Simple.</h1>
-
-<p align="middle"><a href="https://github.com/jswildcards">@jswildcards</a></p>
+> ## The greatest things of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
 
 ---
 
