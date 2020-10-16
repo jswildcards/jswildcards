@@ -1,6 +1,6 @@
 ![img](./public/jswildcards-banner.png)
 
-> ## The greatest things of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
+> ## The greatest thing of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
 
 ---
 
