@@ -25,6 +25,6 @@ I am doing [this](https://github.com/users/jswildcards/projects/1) for my final 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jswildcards)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswildcards)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswildcards&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jswildcards)](https://github.com/anuraghazra/github-readme-stats)
