@@ -14,6 +14,8 @@ I am now a maintainer of some of the Deno modules/projects, such as [filedb](htt
 
 Feel free to use them! :blush: If you find a bug or need a feature request, you can create an issue. Also, you are welcome to become a contributor of these Deno projects! I will be very thankful if you can fix even just a little typo. :pray:
 
+P.S.: My English is so poor. So there should be many grammar mistakes in my repo waiting you to fix. :rofl:
+
 ---
 
 ### My Statistics
