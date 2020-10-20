@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Hi there! :wave:
+Hi there! :wave: I'm Tim
 
 I am a University student who is studying Computer Science. I love coding :smiling_face_with_three_hearts: and I love JavaScript very much. So I am looking forward to contribute to your next JavaScript Project!
 
