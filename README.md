@@ -1,6 +1,8 @@
-![img](https://images.fineartamerica.com/images-medium-large-5/abstract-original-tree-art-painting--colors-of-the-wind-amy-giacomelli.jpg)
+<div align="center" height="200">
+  <img height="200" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="banner" />
+</div>
 
-> ## The greatest thing of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
+> ### The greatest thing of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
 
 ---
 
@@ -18,8 +20,8 @@ Feel free to use them! :blush: If you find a bug or need a feature request, you 
 
 ### 3 Basic Elements in My Life
 
+![macOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![MacOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![TypeScript](https://flat.badgen.net/badge/icon/TypeScript?icon=typescript&label&labelColor=blue&color=blue)
 
 ---
