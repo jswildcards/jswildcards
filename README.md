@@ -1,8 +1,6 @@
-<div align="center" height="200">
-  <img height="200" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="banner" />
-</div>
+<img align="right" height="200" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="banner" />
 
-> ### The greatest thing of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
+> ## The greatest thing of working as a developer is that, you have a computer :computer:, you have a cup of coffee :coffee:, and you are on the go. :smile:
 
 ---
 
