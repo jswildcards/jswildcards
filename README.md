@@ -14,7 +14,7 @@ I am a CS student. I love coding and I love JavaScript very much. So I am lookin
 
 ### Current Project
 
-- logicall: A logistics system project using Docker, React, React Native, Node.js, MySQL, and NGINX.
+- [logicall](https://github.com/jswildcards/logicall): A logistics system project using Docker, React, React Native, Node.js, MySQL, and NGINX.
 
 ---
 
