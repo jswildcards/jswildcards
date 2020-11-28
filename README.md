@@ -10,9 +10,11 @@ Hi there! :wave: I'm Tim.
 
 I am a CS student. I love coding and I love JavaScript very much. So I am looking forward to contribute to your next JavaScript Project!
 
-I am now a maintainer of some of the Deno modules/projects, such as [filedb](https://github.com/jswildcards/filedb) and [dcbadge](https://github.com/jswildcards/dcbadge). They are now all available on [deno.land](https://deno.land) and [nest.land](https://nest.land).
+---
 
-Feel free to use them! :blush: If you find a bug or need a feature request, you can create an issue. Also, you are welcome to become a contributor of these Deno projects! I will be very thankful if you can fix even just a little typo. :pray:
+### Current Project
+
+- logicall: A logistics system project using Docker, React, React Native, Node.js, MySQL, and NGINX.
 
 ---
 
