@@ -14,7 +14,13 @@ I am a CS student. I love coding and I love JavaScript very much. So I am lookin
 
 ### Current Project
 
-- [logicall](https://github.com/jswildcards/logicall): A logistics system project using Docker, React, React Native, Node.js, MySQL, and NGINX.
+- [filedb](https://github.com/jswildcards/filedb): ⚡ A lightweight local JSON database for Deno.
+
+---
+
+### Archived Project
+
+- [logicall](https://github.com/jswildcards/logicall): A logistics system project using Docker, React, React Native, Node.js, PostgreSQL, and Redis.
 
 ---
 
